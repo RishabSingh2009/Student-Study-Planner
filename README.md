@@ -20,3 +20,4 @@ Student Study Planner is a begineer-friendly Python project that helps students 
 4.Select an option from the menu.
 
 ## Author
+Rishab Rathore
